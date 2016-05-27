@@ -31,7 +31,7 @@ gem 'gravatarify', '~> 3.0.0'
 
 gem 'travis'
 
-gem 'rails_12factor', group: :production
+
 
 gem 'factory_girl'
 
@@ -58,3 +58,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'rails_12factor', group: :production
