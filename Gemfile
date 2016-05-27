@@ -31,6 +31,8 @@ gem 'gravatarify', '~> 3.0.0'
 
 gem 'travis'
 
+gem 'rails_12factor', group: :production
+
 gem 'factory_girl'
 
 # Use ActiveModel has_secure_password
